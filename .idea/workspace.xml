@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db7dff8c-6088-46c5-9b44-bc774bf352fa" name="Default Changelist" comment="" />
+    <list default="true" id="db7dff8c-6088-46c5-9b44-bc774bf352fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,6 +27,7 @@
         <counts>
           <entry key="css" value="6" />
           <entry key="ejs" value="3" />
+          <entry key="gitignore" value="1" />
           <entry key="js" value="15" />
           <entry key="json" value="5" />
           <entry key="scss" value="2" />
@@ -34,6 +39,7 @@
           <entry key="EJS" value="3" />
           <entry key="JSON" value="5" />
           <entry key="JavaScript" value="15" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="SCSS" value="2" />
         </counts>
       </usages-collector>
@@ -41,6 +47,7 @@
         <counts>
           <entry key="css" value="65" />
           <entry key="ejs" value="58" />
+          <entry key="gitignore" value="6" />
           <entry key="js" value="2464" />
           <entry key="json" value="48" />
           <entry key="scss" value="1669" />
@@ -52,6 +59,7 @@
           <entry key="EJS" value="58" />
           <entry key="JSON" value="48" />
           <entry key="JavaScript" value="2464" />
+          <entry key="PLAIN_TEXT" value="6" />
           <entry key="SCSS" value="1669" />
         </counts>
       </usages-collector>
@@ -102,16 +110,25 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/utils/canvas2image.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="587">
-                  <caret line="262" column="2" selection-start-line="262" selection-start-column="2" selection-end-line="262" selection-end-column="2" />
+                <state relative-caret-position="279">
+                  <caret line="192" column="5" lean-forward="true" selection-start-line="192" selection-start-column="5" selection-end-line="192" selection-end-column="5" />
                   <folding>
                     <element signature="e#1898#5297#0" />
                     <element signature="e#5523#6030#0" />
                     <element signature="e#6094#6587#0" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="196">
+                  <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -160,7 +177,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/pages/html2canvas/index.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="369">
+                <state relative-caret-position="95">
                   <caret line="139" column="12" selection-start-line="139" selection-start-column="12" selection-end-line="139" selection-end-column="12" />
                   <folding>
                     <element signature="e#1010#1475#0" />
@@ -181,6 +198,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -195,6 +215,7 @@
         <option value="$PROJECT_DIR$/src/pages/index.js" />
         <option value="$PROJECT_DIR$/src/pages/html2canvas/index.js" />
         <option value="$PROJECT_DIR$/src/utils/canvas2image.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -217,6 +238,7 @@
     <option name="width" value="1440" />
     <option name="height" value="828" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -333,23 +355,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537412320019</updated>
-      <workItem from="1537412321570" duration="22749000" />
+      <workItem from="1537412321570" duration="23105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22749000" />
+    <option name="totallyTimeSpent" value="23105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3175389" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3175389" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.56350183" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.56350183" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -455,7 +477,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/html2canvas/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
+        <state relative-caret-position="95">
           <caret line="139" column="12" selection-start-line="139" selection-start-column="12" selection-end-line="139" selection-end-column="12" />
           <folding>
             <element signature="e#1010#1475#0" />
@@ -494,13 +516,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/canvas2image.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="262" column="2" selection-start-line="262" selection-start-column="2" selection-end-line="262" selection-end-column="2" />
+        <state relative-caret-position="279">
+          <caret line="192" column="5" lean-forward="true" selection-start-line="192" selection-start-column="5" selection-end-line="192" selection-end-column="5" />
           <folding>
             <element signature="e#1898#5297#0" />
             <element signature="e#5523#6030#0" />
             <element signature="e#6094#6587#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
